@@ -1,41 +1,43 @@
 p {
-    color: #7A7A7A;
+  color: #7a7a7a;
 }
 
 h1 {
-    color: #eca30b;
-    text-align: center;
-    font-weight: 600;
+  color: #eca30b;
+  text-align: center;
+  font-weight: 600;
+  padding: 3% 0;
 }
 
-
-.tarjetas .col{
-    padding-bottom: 40px;
+.tarjetas .col {
+  padding-bottom: 40px;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
-.tarjetas .col h5{
-    color: #eca30b;
-    font-weight: 600;
-    text-align: center;
-    
+.tarjetas .col h5 {
+  color: #eca30b;
+  font-weight: 600;
+  text-align: center;
 }
 
 .tarjetas .col .card:hover {
-    border: #eca30b solid 1px;
+  border: #eca30b solid 1px;
 }
 
 .tarjetas img {
-width: 100%;
-height: 250px;
+  width: 100%;
+  height: 250px;
 }
 
+.footer {
+  text-align: center;
+  color: #7a7a7a;
+  background-color: #c2c2c2;
+  padding: 20px;
+}
 
-.footer{
-    text-align: center;
-    color: #7A7A7A;
-    background-color: #c2c2c2;
-    padding: 20px;
+.imagen-challenge {
+  padding: 5% 0;
 }
